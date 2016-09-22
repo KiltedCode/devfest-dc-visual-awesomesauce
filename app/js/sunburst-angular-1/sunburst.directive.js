@@ -50,6 +50,13 @@
                 .append('g')
                 .attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ') rotate(-90 0 0)');
 
+            var tooltip = d3.select(ele[0])
+                .append('div')
+                .attr('id', 'tooltip')
+                .style('position', 'absolute')
+                .style('z-index', '10')
+                .style('opacity', 0);
+
             /* layout function for sunburst */
             var partition = d3.layout.partition()
                 .value(function(d) {
@@ -102,7 +109,10 @@
 
                 /* ENTER new elements present in new data */
                 var g = gs.enter().append('g')
-                    .on('click', click);
+                    .on('click', click)
+                    .on('mouseover', mouseoverArc)
+                    .on('mousemove', mousemoveArc)
+                    .on('mouseout', mouseoutArc);
 
                 var path = g.append('path');
 
@@ -127,6 +137,15 @@
                         this.dx0 = d.dx;
                     });
 
+                /* EXIT old elements not present in new data */
+                gs.exit()
+                    .transition()
+                    .duration(500)
+                    .style('fill-opacity', 0)
+                    .remove();
+
+
+                /* helper functions */
 
                 function click(d) {
                     root = d;
@@ -136,14 +155,53 @@
                         .attrTween('d', arcTween(d));
                 }
 
+                function mouseoverArc(d) {
+                    //d3.select(this).attr("stroke","black");
 
-                /* EXIT old elements not present in new data */
-                gs.exit()
-                    .transition()
-                    .duration(500)
-                    .style('fill-opacity', 0)
-                    .remove();
+                    tooltip.html(tooltipHTML(d));
+                    return tooltip.transition()
+                        .duration(50)
+                        .style('opacity', 0.9);
+                }
 
+                function mouseoutArc(d){
+                    //d3.select(this).attr("stroke","");
+                    return tooltip.style('opacity', 0);
+                }
+
+                function mousemoveArc(d) {
+                    return tooltip
+                        .style('top', (d3.event.pageY - 10) + 'px')
+                        .style('left', (d3.event.pageX + 10) + 'px');
+                }
+
+                /**
+                 * tooltipHTML: creates html for tooltip.
+                 * bases output on depth for amount of information available.
+                 * @param d: the current arch.
+                 * @returns {string}: html formatted string to be used in tooltip div.
+                 */
+                function tooltipHTML(d) {
+                    var html = '';
+                    var m = d.value > 1 ? 'medals' : 'medal';
+                    if(d.depth == 0) {
+                        html = '<strong>Rio 2016 Summer Olympic Games</strong>';
+                    }else if(d.depth == 1) {
+                        /* country arc */
+                        html = '<strong>' + d.name + '</strong> (' + d.value + ' ' + m + ')';
+                    } else if(d.depth == 2) {
+                        /* sport */
+                        html = '<strong>' + d.name + '</strong> (' + d.value + ' ' + m + ' for ' + d.parent.name + ')';
+                    } else if(d.depth == 3) {
+                        /* event */
+                        html = d.parent.name + ': <strong>' + d.name + '</strong> (' + d.value + ' ' + m + ' for ' + d.parent.parent.name + ')';
+                    } else if(d.depth == 4) {
+                        /* medal */
+                        html = '<strong><span class="caps">' + d.medal + ':</span> ' + d.name + '</strong> (' + d.co + ')';
+                        html += '<br />' + d.parent.parent.name + ': ' + d.parent.name;
+                    }
+                    return html;
+                }
 
             }
 
@@ -206,6 +264,7 @@
                         tempMedalTree.children.push(country);
                     }
                 }
+                console.log('tempMedalTree', tempMedalTree);
                 return tempMedalTree;
             }
 

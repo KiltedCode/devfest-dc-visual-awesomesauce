@@ -29,7 +29,7 @@
                 .then(function(resp) {
                     vm.medals = vm.medals.concat(resp.data);
                     if(day<13) {
-                        dayTimer = $timeout(getMedals, 4000);
+                        dayTimer = $timeout(getMedals, 3000);
                     }
                     return vm.results;
                 }, function(e) {
