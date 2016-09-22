@@ -94,9 +94,13 @@
                 };
             }
 
-            // Keep track of the node that is currently being displayed as the root.
+            /* tracking for current 'root' node */
             var root;
 
+            /**
+             * updateChart: updates the sunburst chart when new data arrives.
+             * @param items: tree of data.
+             */
             function updateChart(items) {
                 root = items;
 
@@ -147,6 +151,10 @@
 
                 /* helper functions */
 
+                /**
+                 * click: zooms sunburst on selected arc (in or out).
+                 * @param d: the current arc.
+                 */
                 function click(d) {
                     root = d;
 
@@ -155,21 +163,32 @@
                         .attrTween('d', arcTween(d));
                 }
 
+                /**
+                 * mouseoverArc: shows tooltip dive when mouse moves over arc.
+                 * sets tooltip's html with helper function.
+                 * @param d: the current arc.
+                 * @returns {*}
+                 */
                 function mouseoverArc(d) {
-                    //d3.select(this).attr("stroke","black");
-
                     tooltip.html(tooltipHTML(d));
                     return tooltip.transition()
                         .duration(50)
                         .style('opacity', 0.9);
                 }
 
-                function mouseoutArc(d){
-                    //d3.select(this).attr("stroke","");
+                /**
+                 * mouseoutArc: hides tooltip div when mouse moves out of arcs.
+                 * @returns {*}
+                 */
+                function mouseoutArc(){
                     return tooltip.style('opacity', 0);
                 }
 
-                function mousemoveArc(d) {
+                /**
+                 * mousemoveArc: moves tooltip div as mouse moves over arcs.
+                 * @returns {*}
+                 */
+                function mousemoveArc() {
                     return tooltip
                         .style('top', (d3.event.pageY - 10) + 'px')
                         .style('left', (d3.event.pageX + 10) + 'px');
@@ -178,13 +197,14 @@
                 /**
                  * tooltipHTML: creates html for tooltip.
                  * bases output on depth for amount of information available.
-                 * @param d: the current arch.
+                 * @param d: the current arc.
                  * @returns {string}: html formatted string to be used in tooltip div.
                  */
                 function tooltipHTML(d) {
                     var html = '';
                     var m = d.value > 1 ? 'medals' : 'medal';
                     if(d.depth == 0) {
+                        /* center node */
                         html = '<strong>Rio 2016 Summer Olympic Games</strong>';
                     }else if(d.depth == 1) {
                         /* country arc */
