@@ -1,0 +1,357 @@
+[
+	{
+		"sport"	: "Equestrian",
+		"event"	: "Open's Team, Jumping",
+		"date"	: "August 9, 2016 9:00 am",
+		"type"	: "mf",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Philippe Rozier, Penelope Leprevost, Roger-Yves Bost, Kevin Staut",
+				"co"	: "FRA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Elizabeth Madden, McLain Ward, Kent Farrington, Lucy Davis",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Christian Ahlmann, Daniel Deusser, Meredith Michaels-Beerbaum, Ludger Beerbaum",
+				"co"	: "GER"
+			}
+		]
+	},
+	{
+		"sport"	: "Weightlifting",
+		"event"	: "Men's 69kg",
+		"date"	: "August 9, 2016 9:00 am",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Shi Zhiyong",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Daniyar Ismayilov",
+				"co"	: "TUR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Luis Mosquera",
+				"co"	: "COL"
+			}
+		]
+	},
+	{
+		"sport"	: "Weightlifting",
+		"event"	: "Women's 63kg",
+		"date"	: "August 9, 2016 11:30 am",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Deng Wei",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Choe Hyo Sim",
+				"co"	: "PRK"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Karina Goricheva",
+				"co"	: "KAZ"
+			}
+		]
+	},
+	{
+		"sport"	: "Equestrian",
+		"event"	: "Open's Individual, Jumping",
+		"date"	: "August 9, 2016 1:00 pm",
+		"type"	: "mf",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Nick Skelton",
+				"co"	: "GBR"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Peder Fredricson",
+				"co"	: "SWE"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Eric Lamaze",
+				"co"	: "CAN"
+			}
+		]
+	},
+	{
+		"sport"	: "Canoe - Slalom",
+		"event"	: "Men's C1",
+		"date"	: "August 9, 2016 2:10 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Denis Gargaud-Chanut",
+				"co"	: "FRA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Matej Benus",
+				"co"	: "SVK"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Takuya Haneda",
+				"co"	: "JPN"
+			}
+		]
+	},
+	{
+		"sport"	: "Shooting",
+		"event"	: "Women's 25m Pistol",
+		"date"	: "August 9, 2016 2:55 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Anna Korakaki",
+				"co"	: "GRE"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Monika Karsch",
+				"co"	: "GER"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Heidi Diethelm Gerber",
+				"co"	: "SUI"
+			}
+		]
+	},
+	{
+		"sport"	: "Gymnastics - Artistic",
+		"event"	: "Women's Team",
+		"date"	: "August 9, 2016 3:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Gabrielle Douglas, Alexandra Raisman, Simone Biles, Madison Kocian, Laurie Hernandez",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Aliya Mustafina, Daria Spiridonova, Angelina Melnikova, Seda Tutkhalian, Maria Paseka",
+				"co"	: "RUS"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Fan Yilin, Wang Yan, Shang Chunsong, Mao Yi, Tan Jiaxin",
+				"co"	: "CHN"
+			}
+		]
+	},
+	{
+		"sport"	: "Diving",
+		"event"	: "Women's 10m Platform Synchro",
+		"date"	: "August 9, 2016 3:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Chen Ruolin, Liu Huixia",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Cheong Jun Hoong, Pandelela Rinong",
+				"co"	: "MYS"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Roseline Filion, Meaghan Benfeito",
+				"co"	: "CAN"
+			}
+		]
+	},
+	{
+		"sport"	: "Judo",
+		"event"	: "Women's 63kg",
+		"date"	: "August 9, 2016 3:30 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Tina Trstenjak",
+				"co"	: "SLO"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Clarisse Agbegnenou",
+				"co"	: "FRA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Yarden Gerbi",
+				"co"	: "ISR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Anicka van Emden",
+				"co"	: "NED"
+			}
+		]
+	},
+	{
+		"sport"	: "Judo",
+		"event"	: "Men's 81kg",
+		"date"	: "August 9, 2016 4:20 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Khasan Khalmurzaev",
+				"co"	: "RUS"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Travis Stevens",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Sergiu Toma",
+				"co"	: "UAE"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Takanori Nagase",
+				"co"	: "JPN"
+			}
+		]
+	},
+	{
+		"sport"	: "Fencing",
+		"event"	: "Men's Individual Epee",
+		"date"	: "August 9, 2016 4:45 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Park Sangyoung",
+				"co"	: "KOR"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Géza Imre",
+				"co"	: "HUN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Gauthier Grumier",
+				"co"	: "FRA"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Women's 200m Freestyle",
+		"date"	: "August 9, 2016 9:19 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Katie Ledecky",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Sarah Sjöström",
+				"co"	: "SWE"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Emma McKeon",
+				"co"	: "AUS"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Men's 200m Butterfly",
+		"date"	: "August 9, 2016 9:28 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Michael Phelps",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Masato Sakai",
+				"co"	: "JPN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Tamas Kenderesi",
+				"co"	: "HUN"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Women's 200m Individual Medley",
+		"date"	: "August 9, 2016 10:29 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Katinka Hosszú",
+				"co"	: "HUN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Siobhan-Marie O'Connor",
+				"co"	: "GBR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Maya DiRado",
+				"co"	: "USA"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Men's 4 x 200m Freestyle Relay",
+		"date"	: "August 9, 2016 10:38 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Jack Conger, Clark Smith, Conor Dwyer, Townley Haas, Ryan Lochte, Michael Phelps, Joseph Bentz",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Duncan Scott, James Guy, Dan Wallace, Robbie Renwick, Stephen Milne",
+				"co"	: "GBR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Yuki Kobori, Naito Ehara, Kosuke Hagino, Takeshi Matsuda",
+				"co"	: "JPN"
+			}
+		]
+	}
+]

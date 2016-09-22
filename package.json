@@ -1,0 +1,27 @@
+{
+  "name": "devfest-dc-visual-awesomesauce",
+  "private": true,
+  "version": "0.1.0",
+  "description": "DevFestDC 2016 presentation code demonstrating d3 and AngularJS. Creates a sunburst of Summer Olympics 2016 medals.",
+  "repository": "https://github.com/RHGeek/devfest-dc-visual-awesomesauce",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-html2js": "^0.3.6",
+    "http-server": "^0.6.1"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "start": "http-server -a localhost -p 8000 -c-1",
+    "pretest": "npm install",
+    "test": "karma start config/karma.conf.js",
+    "test-single-run": "karma start karma.conf.js  --single-run",
+    "preupdate-webdriver": "npm install",
+    "update-webdriver": "webdriver-manager update"
+  }
+}

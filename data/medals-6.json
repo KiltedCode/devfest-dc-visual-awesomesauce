@@ -1,0 +1,265 @@
+[
+	{
+		"sport"	: "Cycling - Road",
+		"event"	: "Men's Road Race",
+		"date"	: "August 6, 2016 8:30 am",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Greg Van Avermaet",
+				"co"	: "BEL"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Jakob Fuglsang",
+				"co"	: "DEN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Rafal Majka",
+				"co"	: "POL"
+			}
+		]
+	},
+	{
+		"sport"	: "Shooting",
+		"event"	: "Women's 10m Air Rifle",
+		"date"	: "August 6, 2016 9:30 am",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal": "gold",
+				"name"	: "Virginia Thrasher",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Du Li",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Yi Siling",
+				"co"	: "CHN"
+			}
+		]
+	},
+	{
+		"sport"	: "Shooting",
+		"event"	: "Men's 10m Air Pistol",
+		"date"	: "August 6, 2016 2:30 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Hoang Xuan Vinh",
+				"co"	: "VIE"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Felipe Wu",
+				"co"	: "BRA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Pang Wei",
+				"co"	: "CHN"
+			}
+		]
+	},
+	{
+		"sport"	: "Judo",
+		"event"	: "Women's 48kg",
+		"date"	: "August 6, 2016 4:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Paula Pareto",
+				"co"	: "ARG"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Jeong Bo Kyeong",
+				"co"	: "KOR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Ami Kondo",
+				"co"	: "JPN"
+			},
+			{
+				"medal" : "bronze",
+				"name"	: "Otgontsetseg Galbadrakh",
+				"co"	: "KAZ"
+			}
+		]
+	},
+	{
+		"sport"	: "Archery",
+		"event"	: "Men's Team",
+		"date"	: "August 6, 2016 4:07 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Kim Woo-Jin, Ku Bon-Chan, Lee Seung-Yun",
+				"co"	: "KOR"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Brady Ellison, Jacob Linde-Kaminski, Zach Garrett",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Alec Potts, Ryan Tyack, Taylor Worth",
+				"co"	: "AUS"
+			}
+		]
+	},
+	{
+		"sport"	: "Judo",
+		"event"	: "Men's 60kg",
+		"date"	: "August 6, 2016 4:20 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Beslan Mudranov",
+				"co"	: "RUS"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Yeldos Smetov",
+				"co"	: "KAZ"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Naohisa Takato",
+				"co"	: "JPN"
+			},
+			{
+				"medal" : "bronze",
+				"name"	: "Diyorbek Urozboev",
+				"co"	: "UZB"
+			}
+		]
+	},
+	{
+		"sport"	: "Fencing",
+		"event"	: "Women's Individual Epee",
+		"date"	: "August 6, 2016 4:45 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Emese Szász",
+				"co"	: "HUN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Rossella Fiamingo",
+				"co"	: "ITA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Sun Yiwen",
+				"co"	: "CHN"
+			}
+		]
+	},
+	{
+		"sport"	: "Weightlifting",
+		"event"	: "Women's 48kg",
+		"date"	: "August 6, 2016 6:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Sopita Tanasan",
+				"co"	: "THA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Sri Agustiani",
+				"co"	: "INA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Hiromi Miyake",
+				"co"	: "JPN"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Men's 400m Individual Medley",
+		"date"	: "August 6, 2016 9:03 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Kosuke Hagino",
+				"co"	: "JPN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Chase Kalisz",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Daiya Seto",
+				"co"	: "JPN"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Men's 400m Freestyle",
+		"date"	: "August 6, 2016 9:30 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Mack Horton",
+				"co"	: "AUS"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Sun Yang",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Gabriele Detti",
+				"co"	: "ITA"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Women's 400m Individual Medley",
+		"date"	: "August 6, 2016 9:49 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Katinka Hosszú",
+				"co"	: "HUN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Maya DiRado",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Mireia Belmonte",
+				"co"	: "ESP"
+			}
+		]
+	}
+]

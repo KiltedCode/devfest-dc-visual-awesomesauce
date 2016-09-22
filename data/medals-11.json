@@ -1,0 +1,472 @@
+[
+	{
+		"sport"	: "Rowing",
+		"event"	: "Men's Quadruple Sculls",
+		"date"	: "August 11, 2016 9:12 am",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Hans Gruhne, Philipp Wende, Karl Schulze, Lauritz Schoof",
+				"co"	: "GER"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Cameron Girdlestone, James McRae, Alexander Belonogoff, Karsten Forsterling",
+				"co"	: "AUS"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Allar Raja, Andrei Jamsa, Tonu Endrekson, Kaspar Taimsoo",
+				"co"	: "EST"
+			}
+		]
+	},
+	{
+		"sport"	: "Rowing",
+		"event"	: "Women's Quadruple Sculls",
+		"date"	: "August 11, 2016 9:24 am",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Carina Baer, Ann-Katrin Thiele, Lisa Schmidla, Julia Lier",
+				"co"	: "GER"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Inge Janssen, Carline Bouw, Chantal Achterberg, Nicole Beukers",
+				"co"	: "NED"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Agnieszka Kobus, Joanna Leszczynska, Monika Ciaciuch, Maria Springwald",
+				"co"	: "POL"
+			}
+		]
+	},
+	{
+		"sport"	: "Rowing",
+		"event"	: "Men's Pair",
+		"date"	: "August 11, 2016 9:44 am",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Eric Murray, Hamish Bond",
+				"co"	: "NZL"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Shaun Keeling, Lawrence Brittain",
+				"co"	: "RSA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Giovanni Abagnale, Marco Di Costanzo",
+				"co"	: "ITA"
+			}
+		]
+	},
+	{
+		"sport"	: "Rowing",
+		"event"	: "Men's Double Sculls",
+		"date"	: "August 11, 2016 10:24 am",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Martin Sinkovic, Valent Sinkovic",
+				"co"	: "CRO"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Mindaugas Griskonis, Saulius Ritter",
+				"co"	: "LTU"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Kjetil Borch, Olaf Tufte",
+				"co"	: "NOR"
+			}
+		]
+	},
+	{
+		"sport"	: "Rowing",
+		"event"	: "Men's Lightweight Four",
+		"date"	: "August 11, 2016 10:44 am",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Lucas Tramèr, Simon Niepmann, Simon Schürch, Mario Gyr",
+				"co"	: "SUI"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Jacob Barsoe, Jacob Larsen, Morten Jørgensen, Kasper Winther",
+				"co"	: "DEN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Franck Solforosi, Guillaume Raineau, Thibault Colard, Thomas Baroukh",
+				"co"	: "FRA"
+			}
+		]
+	},
+	{
+		"sport"	: "Shooting",
+		"event"	: "Women's 50m Rifle 3 Positions",
+		"date"	: "August 11, 2016 11:00 am",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Barbara Engleder",
+				"co"	: "GER"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Zhang Binbin",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Du Li",
+				"co"	: "CHN"
+			}
+		]
+	},
+	{
+		"sport"	: "Canoe - Slalom",
+		"event"	: "Men's C2",
+		"date"	: "August 11, 2016 1:15 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Peter Skantar, Ladislav Skantar",
+				"co"	: "SVK"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "David Florence, Richard Hounslow",
+				"co"	: "GBR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Gauthier Klauss, Matthieu Peche",
+				"co"	: "FRA"
+			}
+		]
+	},
+	{
+		"sport"	: "Canoe - Slalom",
+		"event"	: "Women's K1",
+		"date"	: "August 11, 2016 2:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Maialen Chourraut",
+				"co"	: "ESP"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Luuka Jones",
+				"co"	: "NZL"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Jessica Fox",
+				"co"	: "AUS"
+			}
+		]
+	},
+	{
+		"sport"	: "Gymnastics - Artistic",
+		"event"	: "Women's Individual All-Around",
+		"date"	: "August 11, 2016 3:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Simone Biles",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Alexandra Raisman",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Aliya Mustafina",
+				"co"	: "RUS"
+			}
+		]
+	},
+	{
+		"sport"	: "Archery",
+		"event"	: "Women's Individual",
+		"date"	: "August 11, 2016 3:43 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Chang Hye-Jin",
+				"co"	: "KOR"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Lisa Unruh",
+				"co"	: "GER"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Ki Bo-Bae",
+				"co"	: "KOR"
+			}
+		]
+	},
+	{
+		"sport"	: "Fencing",
+		"event"	: "Women's Team Epee",
+		"date"	: "August 11, 2016 4:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Romania",
+				"co"	: "ROU"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "China",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Russia",
+				"co"	: "RUS"
+			}
+		]
+	},
+	{
+		"sport"	: "Judo",
+		"event"	: "Women's 78kg",
+		"date"	: "August 11, 2016 4:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Emilie Andeol",
+				"co"	: "FRA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Idalys Ortiz",
+				"co"	: "CUB"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Kanae Yamabe",
+				"co"	: "JPN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Yu Song",
+				"co"	: "CHN"
+			}
+		]
+	},
+	{
+		"sport"	: "Judo",
+		"event"	: "Men's 100kg",
+		"date"	: "August 11, 2016 4:10 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Lukas Krpalek",
+				"co"	: "CZE"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Elmar Gasimov",
+				"co"	: "AZE"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Ryunosuke Haga",
+				"co"	: "JPN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Cyrille Maret",
+				"co"	: "FRA"
+			}
+		]
+	},
+	{
+		"sport"	: "Cycling - Track",
+		"event"	: "Men's Team Sprint",
+		"date"	: "August 11, 2016 5:25 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Callum Skinner, Jason Kenny, Philip Hindes",
+				"co"	: "GBR"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Edward Dawkins, Ethan Mitchell, Sam Webster",
+				"co"	: "NZL"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "François Pervis, Grégory Baugé, Michaël D'Almeida",
+				"co"	: "FRA"
+			}
+		]
+	},
+	{
+		"sport"	: "Rugby",
+		"event"	: "Men's Rugby Sevens",
+		"date"	: "August 11, 2016 6:00 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Fiji",
+				"co"	: "FIJ"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Great Britain",
+				"co"	: "GBR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "South Africa",
+				"co"	: "RSA"
+			}
+		]
+	},
+	{
+		"sport"	: "Table Tennis",
+		"event"	: "Men's Singles",
+		"date"	: "August 11, 2016 8:30 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Ma Long",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Zhang Jike",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Jun Mizutani",
+				"co"	: "JPN"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Women's 200m Breaststroke",
+		"date"	: "August 11, 2016 9:17 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Rie Kaneto",
+				"co"	: "JPN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Yulia Efimova",
+				"co"	: "RUS"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Shi Jinglin",
+				"co"	: "CHN"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Men's 200m Backstroke",
+		"date"	: "August 11, 2016 9:26 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Ryan Murphy",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Mitch Larkin",
+				"co"	: "AUS"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Evgeny Rylov",
+				"co"	: "RUS"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Men's 200m Individual Medley",
+		"date"	: "August 11, 2016 10:01 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Michael Phelps",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Kosuke Hagino",
+				"co"	: "JPN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Wang Shun",
+				"co"	: "CHN"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Women's 100m Freestyle",
+		"date"	: "August 11, 2016 10:18 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Penelope Oleksiak",
+				"co"	: "CAN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Simone Manuel",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Sarah Sjöström",
+				"co"	: "SWE"
+			}
+		]
+	}
+]

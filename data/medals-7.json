@@ -1,0 +1,357 @@
+[
+	{
+		"sport"	: "Shooting",
+		"event"	: "Women's Trap",
+		"date"	: "August 7, 2016 8:00 am",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Catherine Skinner",
+				"co"	: "AUS"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Natalie Rooney",
+				"co"	: "NZL"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Corey Cogdell",
+				"co"	: "USA"
+			}
+		]
+	},
+	{
+		"sport"	: "Shooting",
+		"event"	: "Men's Trap",
+		"date"	: "August 7, 2016 8:30 am",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Josip Glasnovic",
+				"co"	: "CRO"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Giovanni Pellielo",
+				"co"	: "ITA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Edward Ling",
+				"co"	: "GBR"
+			}
+		]
+	},
+	{
+		"sport"	: "Weightlifting",
+		"event"	: "Men's 56kg",
+		"date"	: "August 7, 2016 9:00 am",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Long Qingquan",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Om Yun Chol",
+				"co"	: "PRK"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Sinphet Kruaithong",
+				"co"	: "THA"
+			}
+		]
+	},
+	{
+		"sport"	: "Shooting",
+		"event"	: "Women's 10m Air Pistol",
+		"date"	: "August 7, 2016 10:00 am",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Zhang Mengxue",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Vitalina Batsarashkina",
+				"co"	: "RUS"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Anna Korakaki",
+				"co"	: "GRE"
+			}
+		]
+	},
+	{
+		"sport"	: "Cycling - Road",
+		"event"	: "Women's Road Race",
+		"date"	: "August 7, 2016 11:15 am",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Anna van der Breggen",
+				"co"	: "NED"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Emma Johansson",
+				"co"	: "SWE"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Elisa Longo Borghini",
+				"co"	: "ITA"
+			}
+		]
+	},
+	{
+		"sport"	: "Weightlifting",
+		"event"	: "Women's 53kg",
+		"date"	: "August 7, 2016 11:30 am",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Hsu Shu-Ching",
+				"co"	: "TPE"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Hidilyn Diaz",
+				"co"	: "PHI"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Yoon Jin-Hee",
+				"co"	: "KOR"
+			}
+		]
+	},
+	{
+		"sport"	: "Diving",
+		"event"	: "Women's 3m Springboard Synchro",
+		"date"	: "August 7, 2016 3:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Wu Minxia, Shi Tingmao",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Francesca Dallapè, Tania Cagnotto",
+				"co"	: "ITA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Anabelle Smith, Maddison Keeney",
+				"co"	: "AUS"
+			}
+		]
+	},
+	{
+		"sport"	: "Judo",
+		"event"	: "Women's 52kg",
+		"date"	: "August 7, 2016 4:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Majlinda Kelmendi",
+				"co"	: "KOS"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Odette Giuffrida",
+				"co"	: "ITA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Misato Nakamura",
+				"co"	: "JPN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Natalia Kuziutina",
+				"co"	: "RUS"
+			}
+		]
+	},
+	{
+		"sport"	: "Archery",
+		"event"	: "Women's Team",
+		"date"	: "August 7, 2016 4:07 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Chang Hye-Jin, Choi Mi-Sun, Ki Bo-Bae",
+				"co"	: "KOR"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Inna Stepanova, Tuiana Dashidorzhieva, Ksenia Perova",
+				"co"	: "RUS"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Lin Shih-Chia, Tan Ya-Ting, Le Chieh Ying",
+				"co"	: "TPE"
+			}
+		]
+	},
+	{
+		"sport"	: "Judo",
+		"event"	: "Men's 66kg",
+		"date"	: "August 7, 2016 4:20 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Fabio Basile",
+				"co"	: "ITA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "An Baul",
+				"co"	: "KOR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Rishod Sobirov",
+				"co"	: "UZB"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Masashi Ebinuma",
+				"co"	: "JPN"
+			}
+		]
+	},
+	{
+		"sport"	: "Fencing",
+		"event"	: "Men's Individual Foil",
+		"date"	: "August 7, 2016 4:45 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Daniele Garozzo",
+				"co"	: "ITA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Daniele Garozzo",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Timur Safin",
+				"co"	: "RUS"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Women's 100m Butterfly",
+		"date"	: "August 7, 2016 9:03 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Sarah Sjöström",
+				"co"	: "SWE"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Penelope Oleksiak",
+				"co"	: "CAN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Dana Vollmer",
+				"co"	: "USA"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Men's 100m Breaststroke",
+		"date"	: "August 7, 2016 9:53 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Adam Peaty",
+				"co"	: "GBR"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Cameron van der Burgh",
+				"co"	: "RSA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Cody Miller",
+				"co"	: "USA"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Women's 400m Freestyle",
+		"date"	: "August 7, 2016 10:01 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Katie Ledecky",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Jazmin Carlin",
+				"co"	: "GBR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Leah Smith",
+				"co"	: "USA"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Men's 4 x 100m Freestyle Relay",
+		"date"	: "August 7, 2016 10:54 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Anthony Ervin, Blake Pieroni, Caeleb Dressel, Jimmy Feigen, Ryan Held, Michael Phelps, Nathan Adrian",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Fabien Gilot, Florent Manaudou, Clément Mignon, Mehdy Metella, William Meynard, Jérémy Stravius",
+				"co"	: "FRA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Cameron McEvoy, James Magnussen, James Roberts, Matthew Abood, Kyle Chalmers",
+				"co"	: "AUS"
+			}
+		]
+	}
+]

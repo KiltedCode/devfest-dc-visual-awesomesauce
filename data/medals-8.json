@@ -1,0 +1,288 @@
+[
+	{
+		"sport"	: "Weightlifting",
+		"event"	: "Men's 62kg",
+		"date"	: "August 8, 2016 9:00 am",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Oscar Figueroa",
+				"co"	: "COL"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Eko Yuli Irawan",
+				"co"	: "INA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Farkhad Kharki",
+				"co"	: "KAZ"
+			}
+		]
+	},
+	{
+		"sport"	: "Shooting",
+		"event"	: "Men's 10m Air Rifle",
+		"date"	: "August 8, 2016 11:00 am",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Niccolò Campriani",
+				"co"	: "ITA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Serhiy Kulish",
+				"co"	: "UKR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Vladimir Maslennikov",
+				"co"	: "RUS"
+			}
+		]
+	},
+	{
+		"sport"	: "Weightlifting",
+		"event"	: "Women's 58kg",
+		"date"	: "August 8, 2016 11:30 am",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Sukanya Srisurat",
+				"co"	: "THA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Pimsiri Sirikaew",
+				"co"	: "THA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Kuo Hsing-Chun",
+				"co"	: "TPE"
+			}
+		]
+	},
+	{
+		"sport"	: "Diving",
+		"event"	: "Men's 10m Platform Synchro",
+		"date"	: "August 8, 2016 3:00 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Chen Aisen, Lin Yue",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "David Boudia, Steele Johnson",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Daniel Goodfellow, Thomas Daley",
+				"co"	: "GBR"
+			}
+		]
+	},
+	{
+		"sport"	: "Judo",
+		"event"	: "Women's 57kg",
+		"date"	: "August 8, 2016 4:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Rafaela Silva",
+				"co"	: "BRA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Sumiya Dorjsuren",
+				"co"	: "MGL"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Telma Monteiro",
+				"co"	: "POR"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Kaori Matsumoto",
+				"co"	: "JPN"
+			}
+		]
+	},
+	{
+		"sport"	: "Judo",
+		"event"	: "Men's 73kg",
+		"date"	: "August 8, 2016 4:20 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Shohei Ono",
+				"co"	: "JPN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Rustam Orujov",
+				"co"	: "AZE"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Lasha Shavdatuashvili",
+				"co"	: "GEO"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Dirk Van Tichelt",
+				"co"	: "BEL"
+			}
+		]
+	},
+	{
+		"sport"	: "Fencing",
+		"event"	: "Women's Individual Sabre",
+		"date"	: "August 8, 2016 4:45 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Yana Egorian",
+				"co"	: "RUS"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Sophia Velikaia",
+				"co"	: "RUS"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Olga Kharlan",
+				"co"	: "UKR"
+			}
+		]
+	},
+	{
+		"sport"	: "Rugby",
+		"event"	: "Women's Rugby Sevens",
+		"date"	: "August 8, 2016 6:00 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Australia",
+				"co"	: "AUS"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "New Zealand",
+				"co"	: "NZL"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Canada",
+				"co"	: "CAN"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Men's 200m Freestyle",
+		"date"	: "August 8, 2016 9:21 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Sun Yang",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Chad Le Clos",
+				"co"	: "RSA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Conor Dwyer",
+				"co"	: "USA"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Women's 100m Backstroke",
+		"date"	: "August 8, 2016 9:30 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Katinka Hosszú",
+				"co"	: "HUN"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Kathleen Baker",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Kylie Masse",
+				"co"	: "CAN"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Men's 100m Backstroke",
+		"date"	: "August 8, 2016 9:38 pm",
+		"type"	: "m",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Ryan Murphy",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Xu Jiayu",
+				"co"	: "CHN"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "David Plummer",
+				"co"	: "USA"
+			}
+		]
+	},
+	{
+		"sport"	: "Swimming",
+		"event"	: "Women's 100m Breaststroke",
+		"date"	: "August 8, 2016 9:54 pm",
+		"type"	: "f",
+		"medals" : [
+			{
+				"medal" : "gold",
+				"name"	: "Lilly King",
+				"co"	: "USA"
+			},
+			{
+				"medal" : "silver",
+				"name"	: "Yulia Efimova",
+				"co"	: "RUS"
+			},
+			{
+				"medal" : "bronze",
+				"name" 	: "Katie Meili",
+				"co"	: "USA"
+			}
+		]
+	}
+]

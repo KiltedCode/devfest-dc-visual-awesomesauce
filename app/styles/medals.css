@@ -1,0 +1,20 @@
+path {
+    stroke: #fff;
+    fill-rule: evenodd;
+}
+
+path.rio {
+    fill: #61bf30 !important;
+}
+
+path.medal-gold {
+    fill: #C98910 !important;
+}
+
+path.medal-silver {
+    fill: #A8A8A8 !important;
+}
+
+path.medal-bronze {
+    fill: #965A38 !important;
+}
