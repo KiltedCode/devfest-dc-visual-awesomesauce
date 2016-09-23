@@ -5,9 +5,9 @@
         .module('rhgeek.sunburst')
         .directive('sunburst', Sunburst);
 
-    Sunburst.$inject = [];
+    Sunburst.$inject = ['$window'];
 
-    function Sunburst() {
+    function Sunburst($window) {
         var directive = {
             restrict: 'E',
             //templateUrl: 'sunburst.tpl.html',
@@ -109,7 +109,7 @@
 
                 /* JOIN new data with old elements */
                 var gs = svg.selectAll('g')
-                    .data(partition.nodes(medalTree));
+                    .data(partition.nodes(root));
 
                 /* ENTER new elements present in new data */
                 var g = gs.enter().append('g')
@@ -287,12 +287,44 @@
                 return tempMedalTree;
             }
 
+            /**
+             * resizeSunburst: recalculates width and height.
+             * updates further values based off this.
+             * calls updateChart.
+             */
+            function resizeSunburst() {
+                width  = (attr['width']  ? attr['width']  : Math.floor(ele[0].getBoundingClientRect().width));
+                height = (attr['height'] ? attr['height'] : Math.floor(ele[0].getBoundingClientRect().height));
+                padd   = 10;
+                areaHeight = height - padd * 2;
+                areaWidth  = width - padd * 2;
+                radius = Math.min(areaWidth, areaHeight) / 2.25;
+
+                yScale = d3.scale.sqrt()
+                    .range([0, radius]);
+
+                d3.select('svg')
+                    .attr('width', areaWidth)
+                    .attr('height', areaHeight);
+                svg.attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ') rotate(-90 0 0)');
+
+                updateChart(medalTree);
+            }
+
             /* watch on loading to know to pull rebuild tree */
             scope.$watch('vm.loading', function() {
                 if(!vm.loading) {
                     medalTree = dataToTree(vm.medals);
                     updateChart(medalTree);
                 }
+            });
+
+            /* watch window resize to adjust svg size */
+            angular.element($window).on('resize', resizeSunburst);
+
+            /* turn off watch when directive destroyed */
+            scope.$on('$destroy', function () {
+                angular.element($window).off('resize', resizeSunburst);
             });
 
         }
