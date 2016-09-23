@@ -1,0 +1,362 @@
+[
+    {
+        "sport"	: "Swimming",
+        "event"	: "Women's 10km",
+        "date"	: "August 15, 2016 8:00 am",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Sharon van Rouwendaal",
+                "co"	: "NED"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Rachele Bruni",
+                "co"	: "ITA"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Poliana Okimoto",
+                "co"	: "BRA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Equestrian",
+        "event"	: "Open's Individual Dressage",
+        "date"	: "August 15, 2016 9:00 am",
+        "type"	: "mf",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Charlotte Dujardin",
+                "co"	: "GBR"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Isabell Werth",
+                "co"	: "GER"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Kristina Bröring-Sprehe",
+                "co"	: "GER"
+            }
+        ]
+    },
+    {
+        "sport"	: "Athletics",
+        "event"	: "Women's Hammer Throw",
+        "date"	: "August 15, 2016 9:40 am",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Anita Wlodarczyk",
+                "co"	: "POL"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Zhang Wenxiu",
+                "co"	: "CHN"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Sophie Hitchon",
+                "co"	: "GBR"
+            }
+        ]
+    },
+    {
+        "sport"	: "Athletics",
+        "event"	: "Women's 3000m Steeplechase",
+        "date"	: "August 15, 2016 10:15 am",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Ruth Jebet",
+                "co"	: "BRN"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Hyvin Kiyeng Jepkemoi",
+                "co"	: "KEN"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Emma Coburn",
+                "co"	: "USA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Gymnastics - Artistic",
+        "event"	: "Men's Rings",
+        "date"	: "August 15, 2016 1:00 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Eleftherios Petrounias",
+                "co"	: "GRE"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Arthur Zanetti",
+                "co"	: "BRA"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Denis Ablyazin",
+                "co"	: "RUS"
+            }
+        ]
+    },
+    {
+        "sport"	: "Gymnastics - Artistic",
+        "event"	: "Men's Vault",
+        "date"	: "August 15, 2016 1:52 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Ri Se Gwang",
+                "co"	: "PRK"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Denis Ablyazin",
+                "co"	: "RUS"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Kenzo Shirain",
+                "co"	: "JPN"
+            }
+        ]
+    },
+    {
+        "sport"	: "Weightlifting",
+        "event"	: "Men's 105kg",
+        "date"	: "August 15, 2016 2:30 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Ruslan Nurudinov",
+                "co"	: "UZB"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Simon Martirosyan",
+                "co"	: "ARM"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Alexandr Zaichikov",
+                "co"	: "KAZ"
+            }
+        ]
+    },
+    {
+        "sport"	: "Gymnastics - Artistic",
+        "event"	: "Women's Beam",
+        "date"	: "August 15, 2016 2:42 pm",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Sanne Wevers",
+                "co"	: "NED"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Laurie Hernandez",
+                "co"	: "USA"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Simone Biles",
+                "co"	: "USA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Wrestling",
+        "event"	: "Men's 85kg - Greco-Roman",
+        "date"	: "August 15, 2016 4:08 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Davit Chakvetadze",
+                "co"	: "RUS"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Zhan Belenyuk",
+                "co"	: "UKR"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Denis Kudla",
+                "co"	: "GER"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Javid Hamzatov",
+                "co"	: "BLR"
+            }
+        ]
+    },
+    {
+        "sport"	: "Cycling - Track",
+        "event"	: "Men's Omnium",
+        "date"	: "August 15, 2016 4:23 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Elia Viviani",
+                "co"	: "ITA"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Mark Cavendish",
+                "co"	: "GBR"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Lasse Hansen",
+                "co"	: "DEN"
+            }
+        ]
+    },
+    {
+        "sport"	: "Wrestling",
+        "event"	: "Men's 130kg - Greco-Roman",
+        "date"	: "August 15, 2016 4:32 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Mijaín López",
+                "co"	: "CUB"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Riza Kayaalp",
+                "co"	: "TUR"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Sergey Semenov",
+                "co"	: "RUS"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Sabah Shariati",
+                "co"	: "AZE"
+            }
+        ]
+    },
+    {
+        "sport"	: "Boxing",
+        "event"	: "Men's Heavyweight",
+        "date"	: "August 15, 2016 6:15 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Evgeny Tishchenko",
+                "co"	: "RUS"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Vassiliy Levit",
+                "co"	: "KAZ"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Erislandy Savón",
+                "co"	: "CUB"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Rustam Tulaganov",
+                "co"	: "UZB"
+            }
+        ]
+    },
+    {
+        "sport"	: "Athletics",
+        "event"	: "Men's Pole Vault",
+        "date"	: "August 15, 2016 8:40 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Thiago Braz da Silva",
+                "co"	: "BRA"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Renaud Lavillenie",
+                "co"	: "FRA"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Sam Kendricks",
+                "co"	: "USA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Athletics",
+        "event"	: "Men's 800m",
+        "date"	: "August 15, 2016 9:45 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "David Lekuta Rudisha",
+                "co"	: "KEN"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Taoufik Makhloufi",
+                "co"	: "ALG"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Clayton Murphy",
+                "co"	: "USA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Athletics",
+        "event"	: "Women's 400m",
+        "date"	: "August 15, 2016 10:05 pm",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Shaunae Miller",
+                "co"	: "BAH"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Allyson Felix",
+                "co"	: "USA"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Shericka Jackson",
+                "co"	: "JAM"
+            }
+        ]
+    }
+]

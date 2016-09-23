@@ -1,0 +1,500 @@
+[
+    {
+        "sport"	: "Golf",
+        "event"	: "Men's Individual",
+        "date"	: "August 14, 2016 6:00 am",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Justin Rose",
+                "co"	: "GBR"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Henrik Stenson",
+                "co"	: "SWE"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Matt Kuchar",
+                "co"	: "USA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Tennis",
+        "event"	: "Women's Doubles",
+        "date"	: "August 14, 2016 11:00 am",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Ekaterina Makarova, Elena Vesnina",
+                "co"	: "RUS"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Timea Bacsinszky, Martina Hingis",
+                "co"	: "SUI"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Barbora Strýcová, Lucie Safárová",
+                "co"	: "CZE"
+            }
+        ]
+    },
+    {
+        "sport"	: "Shooting",
+        "event"	: "Men's 50m Rifle 3 Positions",
+        "date"	: "August 14, 2016 12:00 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Niccolò Campriani",
+                "co"	: "ITA"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Sergey Kamenskiy",
+                "co"	: "RUS"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Alexis Raynaud",
+                "co"	: "FRA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Sailing",
+        "event"	: "Men's RS:X",
+        "date"	: "August 14, 2016 12:05 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Dorian Van Rijsselberghe",
+                "co"	: "NED"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Nick Dempsey",
+                "co"	: "GBR"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Pierre Le Coq",
+                "co"	: "FRA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Gymnastics - Artistic",
+        "event"	: "Men's Floor Exercise",
+        "date"	: "August 14, 2016 1:00 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Max Whitlock",
+                "co"	: "GBR"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Diego Hypólito",
+                "co"	: "BRA"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Arthur Mariano",
+                "co"	: "BRA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Tennis",
+        "event"	: "Mixed Doubles",
+        "date"	: "August 14, 2016 1:00 pm",
+        "type"	: "mf",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Bethanie Mattek-Sands, Jack Sock",
+                "co"	: "USA"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Rajeev Ram, Venus Williams",
+                "co"	: "USA"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Radek Stepánek, Lucie Hradecká",
+                "co"	: "CZE"
+            }
+        ]
+    },
+    {
+        "sport"	: "Sailing",
+        "event"	: "Women's RS:X",
+        "date"	: "August 14, 2016 1:05 pm",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Charline Picon",
+                "co"	: "FRA"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Chen Peina",
+                "co"	: "CHN"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Stefania Elfutina",
+                "co"	: "RUS"
+            }
+        ]
+    },
+    {
+        "sport"	: "Boxing",
+        "event"	: "Men's Light Flyweight",
+        "date"	: "August 14, 2016 1:15 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Hasanboy Dusmatov",
+                "co"	: "UZB"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Yuberjen Henry Martinez",
+                "co"	: "COL"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Joahnys Argilagos Perez",
+                "co"	: "CUB"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Nico Miguel Hernandez",
+                "co"	: "USA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Gymnastics - Artistic",
+        "event"	: "Women's Vault",
+        "date"	: "August 14, 2016 1:44 pm",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Simone Biles",
+                "co"	: "USA"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Maria Paseka",
+                "co"	: "RUS"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Giulia Steingruber",
+                "co"	: "SUI"
+            }
+        ]
+    },
+    {
+        "sport"	: "Gymnastics - Artistic",
+        "event"	: "Men's Pommel Horse",
+        "date"	: "August 14, 2016 2:29 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Max Whitlock",
+                "co"	: "GBR"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Louis Smith",
+                "co"	: "GBR"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Alexander Naddour",
+                "co"	: "USA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Weightlifting",
+        "event"	: "Women's +75kg",
+        "date"	: "August 14, 2016 2:30 pm",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Suping Meng",
+                "co"	: "CHN"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Kim Kuk Hyang",
+                "co"	: "PRK"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Sarah Robles",
+                "co"	: "USA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Tennis",
+        "event"	: "Men's Singles",
+        "date"	: "August 14, 2016 2:30 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Andy Murray",
+                "co"	: "GBR"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Juan Martín Del Potro",
+                "co"	: "ARG"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Kei Nishikori",
+                "co"	: "JPN"
+            }
+        ]
+    },
+    {
+        "sport"	: "Diving",
+        "event"	: "Women's 3m Springboard",
+        "date"	: "August 14, 2016 3:00 pm",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Shi Tingmao",
+                "co"	: "CHN"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "He Zi",
+                "co"	: "CHN"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Tania Cagnotto",
+                "co"	: "ITA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Gymnastics - Artistic",
+        "event"	: "Women's Uneven Bars",
+        "date"	: "August 14, 2016 3:14 pm",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Aliya Mustafina",
+                "co"	: "RUS"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Madison Kocian",
+                "co"	: "USA"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Sophie Scheder",
+                "co"	: "GER"
+            }
+        ]
+    },
+    {
+        "sport"	: "Cycling - Track",
+        "event"	: "Men's Sprint",
+        "date"	: "August 14, 2016 4:04 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Jason Kenny",
+                "co"	: "GBR"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Callum Skinner",
+                "co"	: "GBR"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Denis Dmitriev",
+                "co"	: "RUS"
+            }
+        ]
+    },
+    {
+        "sport"	: "Wrestling",
+        "event"	: "Men's 59kg - Greco-Roman",
+        "date"	: "August 14, 2016 4:08 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Ismael Borrero Molina",
+                "co"	: "CUB"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Shinobu Ota",
+                "co"	: "JPN"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Stig-Andre Berge",
+                "co"	: "NOR"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Elmurat Tasmuradov",
+                "co"	: "UZB"
+            }
+        ]
+    },
+    {
+        "sport"	: "Wrestling",
+        "event"	: "Men's 75kg - Greco-Roman",
+        "date"	: "August 14, 2016 4:32 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Roman Vlasov",
+                "co"	: "RUS"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Mark Overgård Madsen",
+                "co"	: "DEN"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Saeid Mourad Abdvali",
+                "co"	: "IRI"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Kim Hyun-Woo",
+                "co"	: "KOR"
+            }
+        ]
+    },
+    {
+        "sport"	: "Fencing",
+        "event"	: "Men's Team Epee",
+        "date"	: "August 14, 2016 5:30 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "France",
+                "co"	: "FRA"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Italy",
+                "co"	: "ITA"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Hungary",
+                "co"	: "HUN"
+            }
+        ]
+    },
+    {
+        "sport"	: "Athletics",
+        "event"	: "Women's Triple Jump",
+        "date"	: "August 14, 2016 7:55 pm",
+        "type"	: "f",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Caterine Ibargüen",
+                "co"	: "COL"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Yulimar Rojas",
+                "co"	: "VEN"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Olga Rypakova",
+                "co"	: "KAZ"
+            }
+        ]
+    },
+    {
+        "sport"	: "Athletics",
+        "event"	: "Men's 400m",
+        "date"	: "August 14, 2016 9:00 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Wayde van Niekerk",
+                "co"	: "RSA"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Kirani James",
+                "co"	: "GRN"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "LaShawn Merritt",
+                "co"	: "USA"
+            }
+        ]
+    },
+    {
+        "sport"	: "Athletics",
+        "event"	: "Men's 100m",
+        "date"	: "August 14, 2016 9:25 pm",
+        "type"	: "m",
+        "medals" : [
+            {
+                "medal" : "gold",
+                "name"	: "Usain Bolt",
+                "co"	: "JAM"
+            },
+            {
+                "medal" : "silver",
+                "name"	: "Justin Gatlin",
+                "co"	: "USA"
+            },
+            {
+                "medal" : "bronze",
+                "name" 	: "Andre De Grasse",
+                "co"	: "CAN"
+            }
+        ]
+    }
+]

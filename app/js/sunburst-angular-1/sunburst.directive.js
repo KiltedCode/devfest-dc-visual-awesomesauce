@@ -284,7 +284,6 @@
                         tempMedalTree.children.push(country);
                     }
                 }
-                console.log('tempMedalTree', tempMedalTree);
                 return tempMedalTree;
             }
 
