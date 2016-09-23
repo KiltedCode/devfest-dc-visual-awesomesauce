@@ -12,7 +12,6 @@
 
         vm.loading = true;
         vm.medals = [];
-        vm.mf = 'mf';
 
         var day = 6;
         var dayTimer;
