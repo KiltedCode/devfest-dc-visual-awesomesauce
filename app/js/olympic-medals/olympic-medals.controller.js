@@ -27,7 +27,7 @@
             return OlympicMedalsService.getDayOfMedals(day)
                 .then(function(resp) {
                     vm.medals = vm.medals.concat(resp.data);
-                    if(day<13) {
+                    if(day<15) {
                         dayTimer = $timeout(getMedals, 3000);
                     }
                     return vm.results;
